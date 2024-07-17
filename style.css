@@ -1,0 +1,263 @@
+header{
+    padding: 15px 20px;
+    border: 2px solid white; 
+    background-color: transparent;
+    width: 50%;
+    height: 20%;
+}
+header img{
+width:10%;
+}
+.cib{
+    padding: 15px 15px;
+    border: 2px solid blue;
+     background-color: blue;
+     color: white;
+}
+.bg11{
+    background-image: url(pics/bg.webp);
+    background-size: cover;
+    height: 170%;
+    overflow: hidden;
+    padding-right: 50px 50px;
+    
+}
+.bg11 h1{
+    color: white;
+    padding-left: 20px 20px;
+}
+.works{
+    padding: 30px 20px;
+}
+.works img{
+    width: 25%;
+}
+.works h1{
+    text-align: center;
+}
+.loan h1{
+    text-align: center;
+    font-size: medium;
+    font-style: normal;
+}
+.news{
+    padding: 20px 20px;
+    border: 3px solid wheat;
+    text-align: center;
+}
+.news img{
+    padding: 15px 15px;
+    width: 40%;
+}
+.news h1{
+    color: #0b0bc0;
+}
+.award{
+    text-align: center;
+    padding: 15px 15px;
+}
+.award img{
+    width: 75%;
+}
+.award h1{
+    color: blue;
+    padding: 15px 15px;
+}
+.acc{
+    padding: 15px 15px;
+    text-align: center;
+}
+.acc img{
+    width: 75%;
+}
+.acc h1{
+    color: blue;
+    padding: 15px 15px;
+}
+.link{
+    border-top: 3px solid burlywood;
+}
+.link nav ul li{
+    display: inline-block;
+    padding: 15px;
+}
+.link p{
+    font-size: small;
+}
+.link h3{
+    font-size: small;
+}
+.invest{
+    background-image: url(pics/invest/images.jpeg);
+    background-size: cover;
+    height: 150%;
+    text-align: center;
+    overflow: hidden;
+}
+.cash{
+    padding: 20px 20px;
+}
+.cash img{
+    padding: 20px 20px;
+}
+.cash button{
+    border-radius: 20px;
+}
+.cash h3{
+    border-radius: 25px;
+    background-color: blue;
+    overflow: hidden;
+}
+.cash img {
+width: 15%;
+}
+.finzy{
+    text-align: center;
+    padding: 15px 15px;
+}
+.finzy h2{
+    color: blue;
+}
+.finzy p{
+    color: gray;
+}
+.care{
+overflow: hidden;
+    text-align: center;
+}
+.care img{
+    padding: 15px 15px;
+}
+.care h2 {
+    color: blue;
+}
+.care p{
+    color: gray;
+}
+.care h1{
+    color: #0b0bc0;
+}
+.fin{
+    text-align: center;
+}
+.fin h1{
+    color: blue;
+}
+.fin h3{
+    color: gray;
+    font-size: small;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  form div {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  iframe {
+    margin-top: 10px;
+  }
+
+  .part {
+    background: #fff;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+.part h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: blue;
+}
+.part h3, .part h4, .part p {
+    margin-bottom: 15px;
+}
+.part label {
+    font-weight: bold;
+}
+.part input, .part textarea, .part button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.part button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.part button:hover {
+    background-color: #0056b3;
+}
+.part .form-group {
+    margin-bottom: 20px;
+}
+.part iframe {
+    margin-top: 10px;
+}
+.pp{
+    padding: 15px 15px;
+    text-align: center;
+}  
+.pp img{
+    width: 75%;
+}
+.pp h3{
+    color: #0b0bc0;
+}
+.per {
+    padding: 15px 15px;
+    text-align: center;
+}
+.per h1{
+    color: #0056b3;
+}
+.fi{
+    padding: 15px 20px;
+    text-align: center;
+}
+.fi img{
+    width: 100%;
+}
+.fi h1{
+    color: rgb(165, 108, 33);
+}
+.for img{
+    width: 30%;
+    text-align: center;
+}
+.carousel-item img {
+    max-width: 25%;  
+    margin: auto;
+    display: block;
+}
+.carousel-caption {
+    bottom: 10px;
+}
+.team{
+    padding: 15px 15px;
+    text-align: center;
+}
+.what{
+    padding: 15px 15px;
+    text-align: center;
+}
